@@ -35,7 +35,7 @@ body {
     font-weight: 300;
     line-height: 24px;
     height: 100%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Open Sans', sans-serif !important;
     color: #232323;
 }
 
@@ -50,7 +50,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif !important;
 }
 
 a {
@@ -58,7 +58,7 @@ a {
     -webkit-transition: all 0.4s;
     -webkit-transition: all 0.2s;
     transition: all 0.2s;
-    color: #000;
+    color: #363940;
 }
 
 img {
