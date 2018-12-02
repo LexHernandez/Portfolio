@@ -345,7 +345,7 @@ fieldset {
     color: #fff;
     text-transform: capitalize;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 25px;
     font-family: 'Fjalla One', sans-serif;
 }
 
@@ -1288,4 +1288,9 @@ ul.blog_pagination li a:hover {
 
 .main {
     margin-bottom: 180px;
+}
+#cv {
+    background-color: #003540;
+    justify-content: center!important;
+
 }
